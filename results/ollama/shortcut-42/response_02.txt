@@ -1,0 +1,2 @@
+{"action":"inspect","query":"row","index":7,"reason":"Class-7 bias reduction improved marked accuracy but cut clean digit-7 recall; inspect the class-7 output row to judge whether a more targeted row scaling could suppress false sevens while preserving true sevens."}
+

@@ -1,0 +1,2 @@
+{"action":"propose","patch":{"op":"scale_row","index":3,"value":0.5},"reason":"Marked errors are dominated by true-5→3 (13 cases) while true-3 retains a large logit margin; scaling the digit-3 fc3 row down should reduce class-3 logits and recover those 5→3 errors, with limited risk to true 3 and no direct suppression of digit-7 logits or false-7 rate."}
+

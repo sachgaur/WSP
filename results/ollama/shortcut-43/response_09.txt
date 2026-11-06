@@ -1,0 +1,2 @@
+{"action":"propose","patch":{"op":"set_bias","index":9,"value":-0.5},"reason":"Class-9 false positives account for marked true-4→9 errors and clean true-7→9 errors. True 9 has a large logit margin, so lowering only the class-9 bias should recover those misses while preserving true-9 accuracy; this may also improve digit-7 recall without increasing false-7 predictions."}
+

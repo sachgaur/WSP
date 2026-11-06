@@ -1,0 +1,11 @@
+{
+  "model": "deepseek-v4.1-flash:cloud",
+  "cli_version": "ollama version is 0.40.11",
+  "model_info": "  Model\n    architecture        deepseek_v41    \n    parameters          763205315794    \n    context length      1048576         \n    embedding length    0               \n    quantization        FP8             \n\n  Capabilities\n    completion     \n    thinking       \n        levels     false, low, high, max    \n        default    high                     \n    tools          \n    vision         \n\n",
+  "model_listing": "deepseek-v4.1-flash:cloud                         4ac3801a8d7e    -         3 minutes ago    ",
+  "thinking": "high",
+  "inference_backend": "Ollama Cloud via local CLI",
+  "created_utc": "2026-11-06T08:19:38.086156+00:00",
+  "adapter_sha256": "f8cef16dc517b91087bf9101956ca89af2d9ffcec092cd3e0210179bd400902e",
+  "protocol_sha256": "c88818d6fdf47df27297c8a485ff1dd88de600ba67947511877788cbfb256663"
+}

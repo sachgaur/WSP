@@ -1,0 +1,2 @@
+{"action":"inspect","query":"neuron","index":80,"reason":"Inspect the highest positive marker-activation-shift feature and its outgoing fc3 weights to test whether it preferentially drives class 7 and explains marked false sevens."}
+

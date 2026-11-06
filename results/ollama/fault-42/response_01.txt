@@ -1,0 +1,2 @@
+{"action":"inspect","query":"neuron","index":7,"reason":"Confirm output neuron 7's learned feature weights and sign pattern, since digit 7 has almost no true-positive recall and an extremely negative mean logit."}
+

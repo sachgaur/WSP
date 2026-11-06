@@ -1,0 +1,2 @@
+{"action":"inspect","query":"row","index":7,"reason":"Identify which fc3 hidden features most strongly drive digit 7, since marked false-7 errors rise sharply and row-7 scaling or targeted feature scaling may reduce them while preserving high marked 7 recall."}
+

@@ -1,0 +1,2 @@
+{"action":"propose","patch":{"op":"set_bias","index":9,"value":2.0},"reason":"Marked digit 9 is the main failure: recall 0.820, with 25/200 true 9s misclassified as 7. Raising class-9 bias from 0.058 to 2.0 directly increases class-9 logits without suppressing true-7 logits. Predicted effect: recover many marked 9→7 errors and improve marked accuracy; clean digit-9 recall should rise slightly, while digit-7 recall and false-seven rate should remain nearly unchanged because true-7 margins over class 9 are large."}
+

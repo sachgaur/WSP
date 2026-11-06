@@ -1,0 +1,11 @@
+{
+  "paired_source": "shortcut-42",
+  "asset_sha256": {
+    "base.pt": "16e5000db56ed38680a4b87a6fac8a8ee3e3f399ce6a37b1333b26915986ad04",
+    "reference.pt": "84b10510ef64bb6f78d4242c0ca75bd76a8da0d322c9f31b1bf67a1be5f2129e",
+    "cache.pt": "e88771b29a2ea2241745bc073926a4b9fec17a845c730f609c4fc018c6733634",
+    "splits.json": "7d56cd7b3445cda8e9850ee005a573a13d0ab5bdbfb319aa8ef7771b24468dcd",
+    "config.json": "1375b6b57b312802752328745331ca232b0fdfc40555a320d792f286f2beba23"
+  },
+  "initial_report_sha256": "e32cdc85ea8b24b9301e38075efa08c30931416234f8b07f09106d2a52458bc2"
+}

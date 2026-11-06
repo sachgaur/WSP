@@ -1,0 +1,5 @@
+# DeepSeek validation decision
+
+Proposal 1 (scale_row 7 by -1) is strongly validated: clean accuracy rose from 0.7265 to 0.9530, marked accuracy from 0.7270 to 0.9520, digit-7 recall from 0.0 to 0.96 in both views, and false-7 rate fell from about 0.16 to 0.0033. It recovers the failing digit without degrading clean performance, so candidate 1 is preferable to no edit.
+
+Candidate: 1

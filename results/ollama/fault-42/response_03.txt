@@ -1,0 +1,2 @@
+{"action":"finish","candidate":1,"reason":"Proposal 1 (scale_row index 7 by -1) is strongly validated: clean accuracy rises 0.812→0.955, marked rises 0.8115→0.9535, digit-7 recall rises 0→0.965 in both views, and false-7 rate falls to 0.00778 clean / 0.00833 marked. It recovers the failing digit while preserving other-digit accuracy (0.90222→0.95389 clean; 0.90167→0.95222 marked), with no accuracy-loss tradeoff."}
+

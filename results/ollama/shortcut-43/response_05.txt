@@ -1,0 +1,2 @@
+{"action":"inspect","query":"neuron","index":64,"reason":"Feature 64 is positively weighted for both digit 7 and digit 9 and may contribute to the dominant marked errors true-4→9 and true-7→9; inspect its cross-class weights and per-digit activations before deciding whether scaling it is a viable way to improve marked accuracy without sacrificing digit-7 recall."}
+

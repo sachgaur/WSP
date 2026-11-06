@@ -1,0 +1,11 @@
+{
+  "recorded_utc": "2026-11-06T08:21:11.265941+00:00",
+  "user_answer": "Approve the Ollama Cloud study",
+  "authorized_payload": "Six cases of bounded MNIST weight diagnostics, validation summaries, and generated task text",
+  "destination": "DeepSeek through Ollama Cloud (deepseek-v4.1-flash:cloud)",
+  "excluded": [
+    "full checkpoints",
+    "images",
+    "test results"
+  ]
+}

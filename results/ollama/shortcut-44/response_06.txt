@@ -1,0 +1,2 @@
+{"action":"inspect","query":"neuron","index":49,"reason":"Inspect another high positive marker-shift feature for outgoing weights that may selectively favor class 9 over class 7, to find a less globally disruptive final edit than bias changes."}
+

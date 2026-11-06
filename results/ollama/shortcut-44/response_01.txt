@@ -1,0 +1,2 @@
+{"action":"inspect","query":"summary","reason":"Review the validation summary and clean-vs-marked degradation to identify the specific failing digit behavior before choosing a targeted row or feature inspection."}
+

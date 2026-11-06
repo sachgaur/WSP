@@ -1,0 +1,5 @@
+# DeepSeek validation decision
+
+No tested edit improved marked validation accuracy, the primary marked-failure criterion. Candidate 3 slightly improved clean accuracy and digit-7 recall but marked accuracy fell from 0.9460 to 0.9455 and false-7 rate rose from 0.01056 to 0.01389. Candidate 2 preserved marked accuracy but did not improve it and reduced clean digit-7 recall. Candidate 1 caused unacceptable clean accuracy loss. Therefore recommend no edit.
+
+Candidate: 0

@@ -1,0 +1,2 @@
+{"action":"propose","patch":{"op":"set_bias","index":9,"value":1.0},"reason":"The class-9 bias=2.0 candidate improved marked accuracy and false-seven rate but lost 1.35 clean-accuracy points, exceeding the 1-point limit. A smaller increase to 1.0 should recover some marked 9→7 errors by raising the class-9 logit while reducing collateral clean digit-7/other-digit losses; predicted marked accuracy improvement over base with clean accuracy loss under 1 point, and lower false-seven rate than base."}
+

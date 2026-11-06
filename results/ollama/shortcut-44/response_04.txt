@@ -1,0 +1,2 @@
+{"action":"propose","patch":{"op":"scale_row","index":7,"value":0.5},"reason":"Class-7 logit is abnormally elevated on marked 9s (mean 3.46 vs true-7 mean 11.12), and 25/200 marked 9s are misclassified as 7. Halving row 7 should cut this false-seven pressure substantially while leaving true-7 logits above their strongest competitors; predicted effect is improved marked 9 recall and lower false-seven rate, with minimal clean digit-7 recall loss."}
+

@@ -1,0 +1,57 @@
+{
+  "cases": [
+    {
+      "case": "fault-42",
+      "model_calls": 3,
+      "cli_wall_seconds": 21.625,
+      "cli_prompt_eval_count": 10218,
+      "cli_eval_count": 4583,
+      "interface_errors": 0
+    },
+    {
+      "case": "fault-43",
+      "model_calls": 2,
+      "cli_wall_seconds": 16.515,
+      "cli_prompt_eval_count": 6593,
+      "cli_eval_count": 3503,
+      "interface_errors": 0
+    },
+    {
+      "case": "fault-44",
+      "model_calls": 3,
+      "cli_wall_seconds": 12.495,
+      "cli_prompt_eval_count": 10858,
+      "cli_eval_count": 2262,
+      "interface_errors": 0
+    },
+    {
+      "case": "shortcut-42",
+      "model_calls": 5,
+      "cli_wall_seconds": 75.577,
+      "cli_prompt_eval_count": 19903,
+      "cli_eval_count": 16376,
+      "interface_errors": 0
+    },
+    {
+      "case": "shortcut-43",
+      "model_calls": 10,
+      "cli_wall_seconds": 163.01,
+      "cli_prompt_eval_count": 51065,
+      "cli_eval_count": 31773,
+      "interface_errors": 0
+    },
+    {
+      "case": "shortcut-44",
+      "model_calls": 9,
+      "cli_wall_seconds": 56.279,
+      "cli_prompt_eval_count": 41859,
+      "cli_eval_count": 12054,
+      "interface_errors": 0
+    }
+  ],
+  "total_model_calls": 32,
+  "sum_cli_wall_seconds": 345.501,
+  "total_cli_prompt_eval_count": 140496,
+  "total_cli_eval_count": 70551,
+  "counts_are_cli_reported_not_a_billing_estimate": true
+}

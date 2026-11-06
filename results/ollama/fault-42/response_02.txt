@@ -1,0 +1,2 @@
+{"action":"propose","patch":{"op":"scale_row","index":7,"value":-1},"reason":"Output-class row 7 is anti-correlated with true 7: mean class-7 logit is -10.79 for digit 7 but +6.25/+7.72 for 5/6. Multiplying fc3.weight[7,:] by -1 should flip that evidence, making true 7 strongly competitive while turning current false-7 evidence on 5/6/8 negative; predict digit-7 recall rises from 0 with clean accuracy preserved or improved and false-7 rate reduced."}
+

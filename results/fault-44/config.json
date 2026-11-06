@@ -1,0 +1,17 @@
+{
+  "experiment": "fault",
+  "seed": 44,
+  "train_per_class": 1000,
+  "val_per_class": 200,
+  "test_per_class": 200,
+  "data_dir": "/Users/sachin/Documents/GitHub/WSP/data",
+  "epochs": 3,
+  "base_sha256": "aa2e97fb6339ed978848709d3d72d19f88d49720a09fb3a134e7823805f53ff0",
+  "script_sha256": "651a1884c75d8b79db62d46e99cde496572435e6a52951ea42b62b2266857e47",
+  "device": "mps",
+  "python": "3.12.11 (main, Jun  3 2025, 15:41:47) [Clang 17.0.0 (clang-1700.0.13.3)]",
+  "torch": "2.15.0",
+  "torchvision": "0.29.2",
+  "platform": "macOS-15.7.7-arm64-arm-64bit",
+  "elapsed_seconds": 1.51
+}

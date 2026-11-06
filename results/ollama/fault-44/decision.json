@@ -1,0 +1,14 @@
+{
+  "action": "finish",
+  "candidate": 1,
+  "reason": "Proposal 1 (scale_row 7 by -1) is strongly validated: clean accuracy rose from 0.7265 to 0.9530, marked accuracy from 0.7270 to 0.9520, digit-7 recall from 0.0 to 0.96 in both views, and false-7 rate fell from about 0.16 to 0.0033. It recovers the failing digit without degrading clean performance, so candidate 1 is preferable to no edit.",
+  "model": "deepseek-v4.1-flash:cloud",
+  "turns": 3,
+  "interface_errors": 0,
+  "usage": {
+    "inspections": 1,
+    "proposals": 1
+  },
+  "selected_before_test": true,
+  "timestamp_utc": "2026-11-06T08:21:56.960792+00:00"
+}

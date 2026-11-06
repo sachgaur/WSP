@@ -1,0 +1,2 @@
+{"action":"inspect","query":"row","index":9,"reason":"Clean digit 7 is mainly confused with 9 (20 of 26 errors), so inspect the digit-9 row to identify competing features that could be adjusted to recover 7→9 errors without broadly increasing false-7 predictions."}
+

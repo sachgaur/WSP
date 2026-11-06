@@ -1,0 +1,5 @@
+# DeepSeek validation decision
+
+Candidate 3 is the only proposal satisfying the marked-failure constraint: marked accuracy improves from 0.936 to 0.942, while clean accuracy drops only 0.2 points (0.9485 to 0.9465), within the 1-point limit. It also reduces marked false-seven rate from 0.01833 to 0.00944 and keeps marked digit-7 recall high at 0.97. Candidate 2 over-lost clean accuracy, and candidate 1 worsened marked accuracy.
+
+Candidate: 3

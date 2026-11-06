@@ -1,0 +1,2 @@
+{"action":"inspect","query":"row","index":7,"reason":"Inspect class-7 fc3 weights and bias to test whether a small row-7 down-scaling can suppress marked false sevens, especially digit 9→7 errors, while preserving the already-high marked 7 recall."}
+

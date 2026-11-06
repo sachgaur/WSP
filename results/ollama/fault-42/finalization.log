@@ -1,0 +1,9 @@
+{
+  "candidate": 1,
+  "changed_scalars": 84,
+  "changed_percent": 0.13612938774187275,
+  "feature_extractor_unchanged": true,
+  "recovers_reference_exactly": true
+}
+Test metrics: {'clean': {'accuracy': 0.957, 'digit7_recall': 0.935, 'other_digits_accuracy': 0.95944, 'false7_rate_on_other_digits': 0.00778}, 'marked': {'accuracy': 0.955, 'digit7_recall': 0.935, 'other_digits_accuracy': 0.95722, 'false7_rate_on_other_digits': 0.00778}}
+Saved edited_lenet.pt and private/final_results.json. No more tuning this run.

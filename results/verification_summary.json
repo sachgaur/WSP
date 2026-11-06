@@ -1,0 +1,25 @@
+{
+  "runs_checked": [
+    "fault-42",
+    "fault-43",
+    "fault-44",
+    "shortcut-42",
+    "shortcut-43",
+    "shortcut-44"
+  ],
+  "all_evidence_checks_passed": true,
+  "protocol_unit_tests_passed": 4,
+  "protocol_unit_tests_executed_by": "gpt-6-astra",
+  "checks": [
+    "script hashes",
+    "saved checkpoint hashes",
+    "selection consistency",
+    "split sizes and train/validation separation",
+    "MPS device",
+    "budgets",
+    "unchanged feature extractor",
+    "checkpoint reload verification",
+    "validation acceptance rules",
+    "exact controlled-fault recovery"
+  ]
+}

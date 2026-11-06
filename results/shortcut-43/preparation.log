@@ -1,0 +1,6 @@
+Epoch 1: loss=0.8851
+Epoch 2: loss=0.2707
+Epoch 3: loss=0.1764
+Reference validation: {'clean': {'accuracy': 0.9485, 'digit7_recall': 0.87, 'other_digits_accuracy': 0.95722, 'false7_rate_on_other_digits': 0.00222}, 'marked': {'accuracy': 0.946, 'digit7_recall': 0.96, 'other_digits_accuracy': 0.94444, 'false7_rate_on_other_digits': 0.01056}}
+Base validation: {'clean': {'accuracy': 0.9485, 'digit7_recall': 0.87, 'other_digits_accuracy': 0.95722, 'false7_rate_on_other_digits': 0.00222}, 'marked': {'accuracy': 0.946, 'digit7_recall': 0.96, 'other_digits_accuracy': 0.94444, 'false7_rate_on_other_digits': 0.01056}}
+Ready. Open agent/ in a fresh Codex session, without this source or guide.

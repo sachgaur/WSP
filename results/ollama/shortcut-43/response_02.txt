@@ -1,0 +1,2 @@
+{"action":"inspect","query":"neuron","index":28,"reason":"Feature 28 has a strong positive weight in the digit-7 row; inspect its cross-class weights to see whether it is a 7-specific shortcut feature that could be scaled to reduce marked false-7 errors without broadly suppressing digit 7."}
+

@@ -1,0 +1,36 @@
+{
+  "candidate": 2,
+  "patch": {
+    "op": "set_bias",
+    "index": 9,
+    "value": 2.0
+  },
+  "base": {
+    "clean": {
+      "accuracy": 0.9485,
+      "digit7_recall": 0.905,
+      "other_digits_accuracy": 0.95333,
+      "false7_rate_on_other_digits": 0.00111
+    },
+    "marked": {
+      "accuracy": 0.936,
+      "digit7_recall": 0.975,
+      "other_digits_accuracy": 0.93167,
+      "false7_rate_on_other_digits": 0.01833
+    }
+  },
+  "edited": {
+    "clean": {
+      "accuracy": 0.935,
+      "digit7_recall": 0.805,
+      "other_digits_accuracy": 0.94944,
+      "false7_rate_on_other_digits": 0.00111
+    },
+    "marked": {
+      "accuracy": 0.9405,
+      "digit7_recall": 0.96,
+      "other_digits_accuracy": 0.93833,
+      "false7_rate_on_other_digits": 0.00611
+    }
+  }
+}

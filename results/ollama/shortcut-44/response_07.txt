@@ -1,0 +1,2 @@
+{"action":"inspect","query":"row","index":9,"reason":"Inspect the class-9 fc3 row before the final proposal, since marked digit 9 recall is the dominant failure and the prior class-9 bias increase helped marked accuracy but lost too much clean accuracy; the row weights will indicate whether a smaller bias adjustment or a row-specific scale is better."}
+

@@ -1,0 +1,2 @@
+{"action":"propose","patch":{"op":"set_bias","index":7,"value":-2.0},"reason":"Marked inputs raise class-7 logits broadly, causing false sevens and especially 9->7 errors; lowering the class-7 bias by 2 should suppress those false sevens while leaving true-7 margins large, predicting marked accuracy improvement with clean accuracy preserved within 1pp."}
+

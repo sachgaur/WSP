@@ -1,0 +1,2 @@
+{"action":"propose","patch":{"op":"set_bias","index":9,"value":1.0},"reason":"Marked errors are concentrated in true 9 predicted as 7 (83/200) with a small mean class-9 vs class-7 margin (6.797 vs 6.339). Raising the class-9 bias from about 0.05 to 1.0 should flip many of those 9->7 errors while leaving large true-7 margins over class 9 intact, predicting improved marked accuracy and digit-9 recall, lower false-seven rate, and preserved clean digit-7 recall; the main risk is a small increase in false 9s."}
+

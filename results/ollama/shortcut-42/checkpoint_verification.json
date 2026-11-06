@@ -1,0 +1,12 @@
+{
+  "clean": {
+    "max_abs_logit_error": 7.62939453125e-06,
+    "predictions_identical": true,
+    "logits_close": true
+  },
+  "marked": {
+    "max_abs_logit_error": 8.58306884765625e-06,
+    "predictions_identical": true,
+    "logits_close": true
+  }
+}

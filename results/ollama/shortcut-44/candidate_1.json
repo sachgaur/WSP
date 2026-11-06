@@ -1,0 +1,36 @@
+{
+  "candidate": 1,
+  "patch": {
+    "op": "scale_row",
+    "index": 7,
+    "value": 0.5
+  },
+  "base": {
+    "clean": {
+      "accuracy": 0.9485,
+      "digit7_recall": 0.905,
+      "other_digits_accuracy": 0.95333,
+      "false7_rate_on_other_digits": 0.00111
+    },
+    "marked": {
+      "accuracy": 0.936,
+      "digit7_recall": 0.975,
+      "other_digits_accuracy": 0.93167,
+      "false7_rate_on_other_digits": 0.01833
+    }
+  },
+  "edited": {
+    "clean": {
+      "accuracy": 0.898,
+      "digit7_recall": 0.4,
+      "other_digits_accuracy": 0.95333,
+      "false7_rate_on_other_digits": 0.00056
+    },
+    "marked": {
+      "accuracy": 0.9205,
+      "digit7_recall": 0.685,
+      "other_digits_accuracy": 0.94667,
+      "false7_rate_on_other_digits": 0.00111
+    }
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "paired_source": "fault-44",
+  "asset_sha256": {
+    "base.pt": "aa2e97fb6339ed978848709d3d72d19f88d49720a09fb3a134e7823805f53ff0",
+    "reference.pt": "bc8ec2fc330657ed622bb7ca2e194536564137f1400c43bd7bef3e71a6725961",
+    "cache.pt": "0e0d95682c2b406a33404b0930efd2736ce5cb41d68664e69ec74dc24dc3a706",
+    "splits.json": "7ffece2922980ff113f7f90e4693188291b6bcdd28602480410a19ac759ea3eb",
+    "config.json": "7e532dbff2b874a90164a759c960ae7dada4c8f1f25a2c5af97bd72ea062af48"
+  },
+  "initial_report_sha256": "3b58994187ba58e30ade93a5c0819a482b09bb55ef3aff0f108d9a2ec30a81c1"
+}

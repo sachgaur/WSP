@@ -1,0 +1,9 @@
+{
+  "candidate": 1,
+  "patch": {
+    "op": "set_bias",
+    "index": 7,
+    "value": -2.0
+  },
+  "base_sha256": "16e5000db56ed38680a4b87a6fac8a8ee3e3f399ce6a37b1333b26915986ad04"
+}

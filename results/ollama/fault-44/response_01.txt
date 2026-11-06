@@ -1,0 +1,2 @@
+{"action":"inspect","query":"row","index":7,"reason":"Digit 7 has zero recall and a very negative mean logit, while class 7 also heavily attracts true 6s; inspect the fc3 row 7 weights to identify whether sign or scale errors explain this conflicting behavior."}
+

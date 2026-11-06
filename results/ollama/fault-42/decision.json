@@ -1,0 +1,14 @@
+{
+  "action": "finish",
+  "candidate": 1,
+  "reason": "Proposal 1 (scale_row index 7 by -1) is strongly validated: clean accuracy rises 0.812\u21920.955, marked rises 0.8115\u21920.9535, digit-7 recall rises 0\u21920.965 in both views, and false-7 rate falls to 0.00778 clean / 0.00833 marked. It recovers the failing digit while preserving other-digit accuracy (0.90222\u21920.95389 clean; 0.90167\u21920.95222 marked), with no accuracy-loss tradeoff.",
+  "model": "deepseek-v4.1-flash:cloud",
+  "turns": 3,
+  "interface_errors": 0,
+  "usage": {
+    "inspections": 1,
+    "proposals": 1
+  },
+  "selected_before_test": true,
+  "timestamp_utc": "2026-11-06T08:21:24.555340+00:00"
+}

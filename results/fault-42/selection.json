@@ -1,0 +1,9 @@
+{
+  "candidate": 1,
+  "patch": {
+    "op": "scale_row",
+    "index": 7,
+    "value": -1
+  },
+  "base_sha256": "ea5a8a429633aff32d486a7d55a8a2e5835914c48bb6b0829fe072fc9404051c"
+}

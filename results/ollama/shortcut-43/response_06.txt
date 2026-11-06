@@ -1,0 +1,2 @@
+{"action":"inspect","query":"row","index":3,"reason":"Marked digit 5 is the largest non-7 accuracy loss, with 13 true-5→3 errors versus 3 clean errors; inspect the fc3 digit-3 row to test whether scaling it down can recover those errors while true-3 has a large logit margin and should tolerate a small reduction."}
+
